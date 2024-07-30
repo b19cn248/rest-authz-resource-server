@@ -1,0 +1,8 @@
+{
+  "realm": "OpenLearnHub",
+  "auth-server-url": "http://localhost:7080",
+  "resource": "open-learn-hub",
+  "credentials": {
+    "secret": "qlqavnwtaRpKwpsu3dL2oRllPNUobuv2"
+  }
+}
